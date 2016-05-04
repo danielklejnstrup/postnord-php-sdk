@@ -1,5 +1,5 @@
 {
-  "name": "lsolesen/postnord-php/sdk",
+  "name": "lsolesen/postnord-php-sdk",
     "type": "library",
     "description": "PHP-SDK to communicate with Post Nord",
     "homepage": "http://github.com/lsolesen/postnord-php-sdk",
